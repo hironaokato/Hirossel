@@ -33,7 +33,7 @@ This Hirossel 3D Printer is beta version.
 More file format will be coming soon.
 
 ------------------------------------------------------------------
-
+Still editing below now....
 
 Required mechanical parts list for main body;
 
