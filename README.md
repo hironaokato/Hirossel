@@ -37,9 +37,9 @@ Still editing below now....
 
 Required mechanical parts list for main body;
 
-Linear Guide: 160mm x4,  275mm x2
+Linear Guide 12mm type (ex LGM12): 400mm x3
 
-Linear Block: 210mm x2
+Linear Block 12mm type (ex LGM12L): x3
 
 Aluminum Frame 20x20mm: 600mm x3, 240mm x9
 
@@ -68,6 +68,7 @@ M4 washer xX
 
 M4 25mm xX
 
+Glass Plate 170mm dim
 
 Required Extruder and hotend;
 
