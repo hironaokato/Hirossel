@@ -9,7 +9,9 @@ About this printer;
 
 This is "Hirossel" open-source 3D printer based on RepRap project, and the base structure is Kossel Mini by jcrocholl.
 
-All CAD data is built from scratch in Japan.
+This beta looks very close to original Kossel Mini since respecting the original and wants to keep original form this stage,
+
+but all CAD data is built from scratch in Japan.
 
 Hirossel is the name under beta version of delta 3D printer in RepRap Community Japan. 
 
@@ -25,7 +27,7 @@ Size of bot:  270mm(dim) x 600(Z)mm
 Print area: 170(dim) x 270(Z)mm
 
 
-Effector(carriage)is compatible with Huxley Extruder and its Hotend or Genkei Extruder and its Hotend.
+Effector(carriage)is compatible with Huxley Extruder and its Hotend and Genkei Extruder and its Hotend.
 
 ------------------------------------------------------------------
 
@@ -47,7 +49,7 @@ GT2 Timing Pulley (GT2 16tooth pulley is recommended): x2
 
 GT2 Timing Belt 6mm width: xxxmm x3, this length is for GT2 16tooth pulley.
 
-623ZZ Radial Bearing: x6 (624ZZ for GT2 20tooth pulley)
+623ZZ Radial Bearing: x6 (623ZZ for GT2 16tooth, 624ZZ for GT2 20tooth pulley)
 
 
 M3 Nut xXX minimum
@@ -70,7 +72,7 @@ M4 25mm xX
 
 Glass Plate 170mm dim
 
-Required Extruder and hotend;
+Required Extruder and hotend below;
 
 Hirossel can use Huxley bowden extruder hotend set OR Genkei bowden extruder hotend set in default.
 
